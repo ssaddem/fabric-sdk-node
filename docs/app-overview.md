@@ -13,7 +13,7 @@ Hyperledger fabric supports two types of applications:
 
 The following diagram provides an overview of the major components of Hyperledger fabric for the standalone application developer.
 
-<img src="../images/standalone-app-developer.png" width="900" height="456">
+<img src="../docs/images/standalone-app-developer.png" width="900" height="456">
 
 In the diagram above, the blue boxes are Hyperledger fabric components and the green boxes are application developer components.  Each outer box represents a separate process.
 
@@ -49,7 +49,7 @@ browser --> web tier --> database tier
 
 ```
 
-<img src="../images/web-app-developer.png" width="900" height="456">
+<img src="../docs/images/web-app-developer.png" width="900" height="456">
 
 In the diagram above, the blue boxes are Hyperledger fabric components and the green boxes are application developer components.  Each outer box represents a separate process.
 
